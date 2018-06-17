@@ -15,13 +15,14 @@ hr {
 }
 
 .faded {
-  color:#F05F44;
+  color:black;
 }
 
 header.startup {
   background-position: center;
   background-image: url("header1.jpg");
-  background-size: cover;
+  background-repeat: no-repeat; 
+  background-size: 1000px;
   height: 100%;
   display: flex;
   align-items: center;
@@ -33,7 +34,9 @@ header.startup hr {
 }
 
 header.startup h1 {
-  font-size: 2rem; 
+  font-size: 3rem; 
+
+
 }
 
 .btn {
