@@ -15,12 +15,12 @@ hr {
 }
 
 .faded {
-  color: rgba(255, 255, 255, 0.8); 
+  color:#F05F44;
 }
 
 header.startup {
   background-position: center;
-  background-image: url("header.jpg");
+  background-image: url("header1.jpg");
   background-size: cover;
   height: 100%;
   display: flex;
